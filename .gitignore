@@ -1,0 +1,9 @@
+.env
+chroma_store
+groq.ipynb
+groq-Copy1.ipynb
+profile.docx
+.ipynb_checkpoints
+.vscode
+__pycache__
+data

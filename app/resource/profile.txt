@@ -1,0 +1,87 @@
+### PROFILE
+Recent Computer Science graduate with a deep passion for AI and Machine Learning. Eager to apply my knowledge and skills in developing innovative, data-driven solutions to real-world problems. Ready to contribute to cutting-edge projects and grow within the field.
+
+### EDUCATION
+**University of Southampton, Malaysia Campus**  
+October 2021 - June 2024  
+Bachelor of Computer Science  
+First Class Honour: Average grade of 77%
+
+### WORK EXPERIENCE
+**ViTrox Corporation Berhad | Intern**  
+July 2023 - September 2023  
+During my internship, I leveraged machine learning to classify failure patterns in camera systems. I transformed and analyzed raw data, applied clustering algorithms for classification, and labeled and augmented data groups. I then developed, trained, and fine-tuned a deep learning model to improve its performance, resulting in a more accurate and effective system.
+
+### PROJECT1
+**Skin Cancer Diagnosis using Deep Learning**  
+Tools: Python, TensorFlow, Scikit-Learn, OpenCV, Flask  
+- Develop a computer-aided diagnosis system using deep learning to distinguish between benign and malignant cancer cells.
+- Implemented a two-stage approach by first using U-Net for segmentation and then InceptionV3 for classification.
+- Improved model performance by integrating attention module.
+
+### PROJECT2
+**Movie Ratings Prediction using Machine Learning**  
+Tools: Python, Pandas, Scikit-learn, XGBoost, Random Forest  
+- Developed a machine learning model to classify movies into five distinct quality classes based on IMDb scores.
+- Preprocessed a dataset with over 5,000 entries, handling missing values, scaling numerical data, and applying feature selection methods.
+- Implemented classification models using Random Forest, XGBoost, and Logistic Regression, optimizing them through hyperparameter tuning.
+- Employed stratified k-fold cross-validation and used weighted F1 scores to evaluate model performance on imbalanced classes.
+- Improved model performance through feature engineering, including encoding categorical variables and handling class imbalance.
+
+### PROJECT3
+**Recommender System**  
+Tools: Python, TensorFlow, Numpy  
+- Developed a recommendation system using matrix factorization with embeddings in TensorFlow/Keras.
+- Implemented data loading and preprocessing routines to handle large-scale datasets (20M+ entries).
+- Built a custom model with user and item embeddings, including bias terms, and handling cold-start problem.
+- Performed data mapping and conversion to ensure smooth integration with the machine learning pipeline.
+
+### PROJECT4
+**Sentiment Analysis with Naïve Bayes**  
+Tools: Python, NLTK, Scikit-Learn  
+- Implemented data preprocessing steps including tokenization, stop word removal, and text normalization to prepare the dataset for training.
+- Built frequency dictionaries to capture word occurrence patterns in positive and negative tweets, enabling the calculation of log prior and log likelihood probabilities.
+- Trained the Naive Bayes model to compute log prior and log likelihoods for words, improving the model's ability to predict sentiment based on input tweets.
+- Utilized NLTK (Natural Language Toolkit) for accessing Twitter datasets, processing text, and handling linguistic data.
+
+### PROJECT5
+**Netflix Clone**  
+Tools: MongoDB, Express.js, React.js, Node.js, JSON Web Tokens (JWT), Bcrypt.js, RESTful API, Tailwind CSS, Zustand, Postman, Render  
+- Developed a full-stack Netflix clone using the MERN stack, implementing user authentication (sign-up, login, logout) with secure token-based authentication (JWT) and password hashing (Bcrypt.js).
+- Built and tested RESTful API endpoints to support user authentication, browsing, and searching functionalities, ensuring reliable client-server communication.
+- Integrated the TMDB API for movies / TV shows details, as well as search functionality for dynamic content filtering.
+- Utilized Tailwind CSS for designing a responsive and modern user interface, and managed global state effectively using Zustand for a smooth user experience.
+- Conducted API testing using Postman to ensure reliability and correctness of backend services.
+- Deployed the application on Render, providing reliable access to users.
+
+### PROJECT6
+**Product Store Web Application**  
+Tools: MongoDB, Express, React, NodeJS, RESTful API, Zustand, Chakra, Postman  
+- Developed a full-stack product store application utilizing the MERN stack, enabling dynamic interaction with a MongoDB database to manage product inventory including name, price, and images.
+- Implemented RESTful API services to support basic CRUD (Create, Read, Update, Delete) operations, enhancing the application's functionality for real-time data management.
+- Integrated Zustand for efficient global state management across the React application.
+- Utilized Chakra UI to design a modern, responsive user interface.
+- Conducted API testing with Postman, verifying the reliability and performance of server-side logic.
+
+### PROJECT7
+**Recipe App**  
+Tools: ReactJS, Tailwind CSS, DaisyUI, API integration  
+- Built a recipe app using ReactJS that fetches and displays recipes via API, showing images, names, and health-related information.
+- Implemented search functionality to allow users to find recipes based on their preferences and add recipes to their favorites.
+- Utilized local storage to retain favorited recipes across page reloads, enhancing user experience and data persistence.
+- Styled the app using Tailwind CSS and DaisyUI for a responsive, user-friendly interface.
+- Successfully deployed the application using Vercel for seamless access.
+
+### SKILLS
+**Technical Skills**  
+- Programming languages: Java, Python, JavaScript, HTML, CSS
+- Data management: MySQL, MongoDB, Linux
+- Graphical User Interface: JavaFX, Chakra UI, Daisy UI, Tailwind CSS
+- Artificial Intelligence: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+- Software development methodologies: Agile, Scrum
+- Tools & Frameworks: Tensorflow, Scikit-learn, Keras, OpenCV, Matplotlib, Matlab, ExpressJS, ReactJS
+
+**Languages**  
+- English - Professional working proficiency  
+- Chinese Mandarin - Native or bilingual proficiency  
+- Malay - Professional working proficiency
